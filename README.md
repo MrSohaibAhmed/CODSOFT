@@ -1,1 +1,1 @@
- https://mrsohaibahmed.github.io/CODSOFT/
+ https://mrsohaibahmed.github.io/CODSOFT/CALCULATOR
